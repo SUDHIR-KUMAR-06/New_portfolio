@@ -11,12 +11,13 @@ This is the official portfolio of **Sudhir Kumar**, built to showcase my skills,
 
 - ✨ Clean, responsive, and modern UI
 - 💻 Detailed sections on:
+
   - About Me
   - Skills & Technologies
   - Projects with GitHub links
   - Education and Experience
   - Contact Information
-- 🌙 Light/Dark mode toggle (if available)
+
 - 📱 Fully responsive for desktop and mobile
 
 ## 🛠️ Tech Stack
