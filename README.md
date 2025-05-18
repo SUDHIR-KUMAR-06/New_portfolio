@@ -30,6 +30,7 @@ This is the official portfolio of **Sudhir Kumar**, built to showcase my skills,
 ## 📸 Preview
 
 ![Portfolio Preview](https://raw.githubusercontent.com/sudhir-kumar-06/New_portfolio/main/public/images/preview-2.png)
+![Portfolio Preview](https://raw.githubusercontent.com/sudhir-kumar-06/New_portfolio/main/public/images/preview-3.png)
 
 ## 📬 Contact
 
