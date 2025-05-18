@@ -29,16 +29,16 @@ This is the official portfolio of **Sudhir Kumar**, built to showcase my skills,
 
 ## 📸 Preview
 
-![Portfolio Preview](https://sudhir-kumar-06.github.io/New_portfolio/assets/your-preview-2.png)  
-(https://sudhir-kumar-06.github.io/New_portfolio/assets/your-preview-1.png)
-(https://sudhir-kumar-06.github.io/New_portfolio/assets/your-preview-3.png)
+![Portfolio Preview](/New_portfolio/assets/your-preview-2.png)  
+(/New_portfolio/assets/your-preview-1.png)
+(/New_portfolio/assets/your-preview-3.png)
 
 ## 📬 Contact
 
 Feel free to connect with me!
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [Your LinkedIn URL]
+- 📧 Email: [snghsudhirkumar06@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/sudhir-kumar914027/]
 - 🐙 GitHub: [https://github.com/sudhir-kumar-06](https://github.com/sudhir-kumar-06)
 
 ---
